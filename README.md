@@ -1,2 +1,3 @@
 # Sentiments-on-Twitter
-ok
+
+Performing sentimental analysis on live incoming tweets regarding a chosen subject.
